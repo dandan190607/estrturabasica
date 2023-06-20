@@ -1,12 +1,20 @@
 {
   "name": "estruturabasica",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandan190607/estrturabasica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dandan190607/estrturabasica/issues"
+  },
+  "homepage": "https://github.com/dandan190607/estrturabasica#readme",
+  "description": ""
 }
